@@ -1,13 +1,11 @@
 # Hi there, I'm Surya Mangaraj 👋
 
-!Profile views
-
 ## About Me
 I am a dedicated RF Software Engineer at Viasat, specializing in cutting-edge Wireless Communication technologies. My current focus is on mastering .NET to engineer advanced RF algorithms, driving the evolution of next-generation wireless communication systems.
 
 ## 🚀 Professional Journey
 ### Viasat India Pvt. Ltd., Hyderabad
-**RF Software Engineer III** (Aug 2023 – Present)
+**RF Software Engineer III**
 
 - 🧠 **Innovator**: Designed and implemented application software algorithms and measurement IP for RF systems.
 - 📏 **Precision Expert**: Developed RF measurement methodologies for enhanced test accuracy.
